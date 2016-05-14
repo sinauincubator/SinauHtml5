@@ -1,0 +1,49 @@
+#body{
+    margin:0;
+}
+
+#container{
+
+}
+#logo{
+    border:2px solid #000;
+    width:300px;
+    height:40px;
+    font-size: 20px;
+    padding: 2px ;
+    color: #0047B2;
+}
+
+#mainbody{
+    
+}
+#salam{
+    
+    font-size: 30pt;
+    
+}
+#isi{
+    border:2px solid #000;
+    width:1000px;
+    height:500px;
+    
+}
+#kanan{
+    border:2px solid #000;
+    width:650px;
+    height:40px;
+    
+    float: right;
+}
+#kiri{
+    border:2px solid #000;
+    width:650px;
+    height:40px;
+    float: left;    
+}
+#footer{
+    font-size: 20pt;
+    color:#011;
+    
+}
+
